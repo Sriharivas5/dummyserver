@@ -1,5 +1,12 @@
 {
-  "cat":[
-    1,2,3
+  "cat": [
+    {
+      "id": "1",
+      "namee": "string"
+    },
+    {
+      "id": 2,
+      "name": "string2"
+    }
   ]
 }
